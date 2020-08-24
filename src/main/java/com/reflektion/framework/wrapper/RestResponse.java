@@ -13,9 +13,8 @@ import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInC
 import static org.hamcrest.Matchers.*;
 
 /**
- * Author: Muthuraja R
+ * Author: Sivasubramaniam
  * Version: 1.0
- * Date of Creation: 06/15/2018
  * Class Description: This is Java bean class hold objects and also perform validation using hamcrest.Matchers
  * Built on top of Rest Assured
  */
