@@ -1,9 +1,8 @@
 package com.reflektion.framework.utils;
 
 /**
- * Author: Muthuraja R
+ * Author: Sivasubramaniam
  * Version: 1.0
- * Date of Creation: 06/15/2018
  * Class Description: This class hold all final value here.
  */
 public class Constant {
