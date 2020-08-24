@@ -9,7 +9,7 @@ import java.io.InputStream;
 import java.util.Properties;
 
 /**
- * Author: Muthuraja R
+ * Author: Sivasubramaniam
  * Version: 1.0
  * Date of Creation: 06/15/2018
  * Class Description: This class holds all common util functions, may be static method implemenation
