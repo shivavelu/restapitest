@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.reflektion.framework.reports.Reporting"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="refkapitest">
+        <classes>
+            <class name="com.reflektion.framework.testscripts.ReadServices"></class>
+            <class name="com.reflektion.framework.testscripts.WriteServices"></class>
+            <class name="com.reflektion.framework.testscripts.UpdateService"></class>
+            <class name="com.reflektion.framework.testscripts.DeleteService"></class>
+        </classes>
+    </test>
+</suite>
